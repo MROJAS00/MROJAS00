@@ -20,5 +20,5 @@ My name is Miguel, I'm from Spain and I'm a Cloud passionate.
 
 Find some of my socials below:
 
-[LinkedIn](https://www.linkedin.com/in/miguel-rojas-6416a2188/)
-[Mail](mailto:miguelrojascerdeiras@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/miguel-rojas-6416a2188/)
+* [Mail](mailto:miguelrojascerdeiras@gmail.com)
