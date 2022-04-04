@@ -2,7 +2,7 @@
 
 My name is Miguel, I'm from Spain and I'm a Cloud passionate.
 
-* Currently working for T2client as a Operational Big Data Engineer
+* Currently working for T2client as Devops Engineer
 * I am a working hard to keep learning about SRE technologies like Docker and Kubernetes on self-taught.
 * I have learn a lot from home labs and applying those knowledges day a day on my current job.
 
