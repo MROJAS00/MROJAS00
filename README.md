@@ -1,23 +1,29 @@
-## Hello 👋
+# Hello! 👋
 
-My name is Miguel, I'm from Spain and I'm a Cloud passionate.
+Hi, I'm **Miguel**, a DevOps Engineer from Spain with a strong passion for Cloud technologies and modern infrastructure.
 
-* Currently working as Devops Engineer
-* Experience managing growing up platforms
-* I have learnt a lot from home labs and applying those knowledges day a day on my current job.
+I thrive on managing and scaling platforms, leveraging my experience and hands-on learning from home labs to solve real-world challenges in my current role.
 
-## Skills
+---
 
-* Kubernetes & docker experience
-* Azure cloud & AWS & GCP experience
-* Critical thinking, decision-making and problem solving skills
-* Terraform && Ansible
-* Special skills and experience in recent and growing up platforms.
-* Data Engineer and Azure Adminsitrator certifications from Azure Cloud provider
+## 🚀 Skills
 
-## Contact
+- **Containerization & Orchestration**: Kubernetes & Docker
+- **Cloud Platforms**: Extensive experience with Azure, AWS, and GCP
+- **Infrastructure as Code**: Terraform & Ansible
+- **Monitoring**: Experience working with different monitoring stack. Grafana, prometheus, Elastic stack, among others
+- **Problem-Solving**: Critical thinking, decision-making, and troubleshooting complex systems
+- **Certifications**:  
+  - Azure Data Engineer  
+  - Azure Administrator
+  - AWS Cloud Practitioner
+- **Specialization**: Building and optimizing scalable, high-performance platforms with a focus on emerging technologies
 
-Find some of my socials below:
+---
 
-* [LinkedIn](https://www.linkedin.com/in/miguel-rojas-6416a2188/)
-* [Mail](mailto:miguelrojascerdeiras@gmail.com)
+## 📬 Contact
+
+Feel free to reach out to me!
+
+- [LinkedIn Profile](https://www.linkedin.com/in/miguel-rojas-6416a2188/)
+- 📧 [Email Me](mailto:miguelrojascerdeiras@gmail.com)
