@@ -26,4 +26,4 @@ I thrive on managing and scaling platforms, leveraging my experience and hands-o
 Feel free to reach out to me!
 
 - [LinkedIn Profile](https://www.linkedin.com/in/miguel-rojas-6416a2188/)
-- 📧 [Email Me](mailto:miguelrojascerdeiras@gmail.com)
+- 📧 miguelrojascerdeiras@gmail.com
