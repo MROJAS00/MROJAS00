@@ -34,7 +34,7 @@ I specialize in building, scaling, and optimizing platforms using cutting-edge t
 
 ## 📬 Contact  
 
-I’d love to connect and explore new opportunities!  
+I’d love to connect and explore new opportunities! You may also find more information about my journey in my Linkedin profile below.  
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/miguel-rojas-6416a2188/)  
 - 📧 miguelrojascerdeiras@gmail.com
